@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: jotatoledo/get-started:part2
+    image: jotatoledo/get-started:0.0.1
     deploy:
       replicas: 5
       resources:
